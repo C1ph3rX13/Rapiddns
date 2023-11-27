@@ -4,7 +4,7 @@ Rapiddns.io Data Retrieval
 
 ## Description
 
-使用两个接口的数据，使用`all`参数可以同时输出
+使用两个接口的数据，使用`all`参数可以同时输出数据到Excel
 
 + https://rapiddns.io/sameip
 + https://rapiddns.io/subdomain
